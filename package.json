@@ -1,0 +1,13 @@
+{
+  "name": "node-jwt-benchmark",
+  "version": "1.0.0",
+  "description": "Benchmark of Node.js JWT implementations",
+  "main": "index.js",
+  "repository": "git@github.com:rt12/node-jwt-benchmark.git",
+  "author": "Dmitrii Rakhalov <biorobot@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
