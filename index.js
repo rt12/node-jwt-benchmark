@@ -25,8 +25,8 @@ function loadKey(filename) {
   
 var algorithms = {
     HS256: {
-        pub_key: 'my53cr3tv4r',
-        priv_key: 'my53cr3tv4r'
+        pub_key: 'iOiJiYXIiLCJiYXoiOiJ',
+        priv_key: 'iOiJiYXIiLCJiYXoiOiJ'
     },
     RS256: {
         // openssl genrsa -out private.pem
